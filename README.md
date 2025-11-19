@@ -33,9 +33,3 @@ TECH STACK:
 PCA VISUALIZATION:
 <img width="671" height="547" alt="image" src="https://github.com/user-attachments/assets/9280d370-26da-420d-b703-6667c2184e09" />
 
-
-
-
-✔ Removes duplicates
-✔ Cosine similarity ranking
-✔ Cluster visualization
