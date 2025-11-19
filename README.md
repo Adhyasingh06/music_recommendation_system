@@ -8,12 +8,13 @@ OVERVIEW: This project builds an AI-based music recommendation system using Spot
 * Energy
 * Valence
 * Tempo
-  These are then clustered into these 4 moods:
+
+These are then clustered into these 4 moods:
 * 0-	Happy / Positive
 * 1	-Sad / Emotional
 * 2	-Energetic / Dance
 * 3	-Calm / Chill
-* 
+
 (2) Song Recommendation (Using Cosine Similarity)
 
 Once the mood cluster is identified, the system:
